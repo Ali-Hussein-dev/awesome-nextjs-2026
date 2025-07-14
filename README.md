@@ -1,0 +1,1 @@
+# awesome-nextjs-2026
