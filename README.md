@@ -113,12 +113,8 @@ A collection of up-to-date awesome libraries, resources, and shiny things in the
 
 - [Mantine Hooks](https://mantine.dev/hooks/package) - Collection of hooks for React by Mantine
 - [Usehooks](https://usehooks.com) - Collection of hooks for React by Dev UI
-
-#### React Routing
-
-- [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
-- [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
+- [next safe action](https://next-safe-action.dev/) - Type safe and validated Server Actions in your Next.js project.
+- [Serwist](https://serwist.pages.dev/) - A Swiss Army knife for service workers.
 
 #### React Development Tools
 
